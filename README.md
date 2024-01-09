@@ -1,6 +1,3 @@
-# Frontend Mentor - Meet landing page
-
-![Design preview for the Meet landing page coding challenge](./preview.jpg)
 
 <div align="center">
 <h1>Projeto Meet landing page</h1>
