@@ -2,10 +2,6 @@
 
 ![Design preview for the Meet landing page coding challenge](./preview.jpg)
 
-# Frontend Mentor - Results summary component
-
-![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
-
 <div align="center">
 <h1>Projeto Meet landing page</h1>
 </div>
@@ -25,6 +21,6 @@ Concluido ✔️
 </ul>
 
 # &#X263A; Link
-Você pode acessar o Projeto pronto por esse link: https://kaiketorres.github.io/Results-summary
+Você pode acessar o Projeto pronto por esse link: https://kaiketorres.github.io/Meet-landing-page/
 
 Você pode acessar o Desafio pelo site: https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR
